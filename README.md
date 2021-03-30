@@ -13,7 +13,7 @@ Sou aluna de Desenvolvimento de Sistemas (IFSuldeMinas), uma pequena padawan no 
 - 🎯 Foco: Atualmente tenho me dedicado a aprender desevolvimento web - Front End;
 - ⚡ Curiosidades: Sou completamente apaixonada por café e faço cerveja artesanal nas horas vagas 🍻.
 
-## Git Stats
+## Github Stats
 
 [![Lud Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=ludsilva&show_icons=true&theme=dark)](https://github.com/ludsilva/github-readme-stats)
 
