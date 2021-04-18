@@ -9,7 +9,7 @@ Sou aluna de Desenvolvimento de Sistemas (IFSuldeMinas), uma pequena padawan no 
 
 - 🔭 Em transição de carreira... (saindo da área da saúde);
 - 💻 Tecnologias: HTML e CSS;
-- 🌱 Estudando: JavasScript e criando muitos bugs;
+- 🌱 Estudando: JavaScript e criando muitos bugs;
 - 🎯 Foco: Atualmente tenho me dedicado a aprender desevolvimento web - Front End;
 - ⚡ Curiosidades: Sou completamente apaixonada por café e faço cerveja artesanal nas horas vagas 🍻.
 
