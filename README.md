@@ -7,9 +7,8 @@ I'm Ludmila - but you can call me **Lud**.
 - ⚡ Fun facts: I really love coffee (who doesn't?) and beer 🍻.
 
 <div align="center">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=ludsilva&show_icons=true&theme=dark" /> 
-
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludsilva&layout=compact" /> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ludsilva&show_icons=true&theme=dark" /> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludsilva&layout=compact" /> 
 </div>
 
 <div style="display: inline_block"><br>
