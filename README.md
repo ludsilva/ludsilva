@@ -1,10 +1,19 @@
 ### Hi everyone! 👋
 
-I'm Ludmila - but you can call me **Lud**.
+I'm Ludmila, but you can call me Lud.
 
-- 🎯 My goal: become a DevOps/Cloud Analyst Jr;
-- 📕 I'm currently learning about Docker;
-- ⚡ Fun facts: I really love coffee (who doesn't?) and beer 🍻.
+💻 I'm an Infrastructure Analyst with experience in:
+
+  - Managing servers (Linux and Windows)
+  - Active Directory administration
+  - Networking
+  - Backup solutions
+
+🎯 My goal is to become a Cloud Solutions Architect.
+
+☁️ Currently, I'm working on AWS projects, diving deeper into the cloud world.
+
+⚡ Fun facts: I really love coffee (who doesn't?) and beer 🍻.
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ludsilva&show_icons=true&theme=dark" /> 
